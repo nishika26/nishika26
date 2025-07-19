@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishika</h1>
-<h3 align="center">A Recent graduate working in data, ML and AI</h3>
+<h3 align="center">A backend and AI Engineer</h3>
 
 - I’m currently working on **Finetuning LLMs and Advanced RAGs**
 
