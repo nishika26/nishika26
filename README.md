@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishika</h1>
 <h3 align="center">A backend and AI Engineer</h3>
 
-- I’m currently working on **Finetuning LLMs and Advanced RAGs**
-
--  I’m currently learning **Devops, Knowledge Graphs, etc**
-
 - You can email me at **nishikayadav26@gmail.com**
 
 <h3 align="left">Connect with me!</h3>
