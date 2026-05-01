@@ -6,9 +6,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nishika--yadav-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/nishika-yadav)
 [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-Nishika26-FFD21E?style=flat)](https://huggingface.co/Nishika26)
+[![LeetCode](https://img.shields.io/badge/LeetCode-nishikayadav26-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/nishikayadav26/)
 [![GitHub](https://img.shields.io/badge/GitHub-nishika26-181717?style=flat&logo=github)](https://github.com/nishika26)
 [![Blog](https://img.shields.io/badge/Blog-Tech4Dev-2E8B57?style=flat&logo=rss)](https://projecttech4dev.org/blogs/)
-[![LeetCode](https://leetcode.com/u/nishikayadav26/)
 
 </div>
 
