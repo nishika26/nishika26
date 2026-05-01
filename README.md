@@ -8,13 +8,12 @@
 [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-Nishika26-FFD21E?style=flat)](https://huggingface.co/Nishika26)
 [![GitHub](https://img.shields.io/badge/GitHub-nishika26-181717?style=flat&logo=github)](https://github.com/nishika26)
 [![Blog](https://img.shields.io/badge/Blog-Tech4Dev-2E8B57?style=flat&logo=rss)](https://projecttech4dev.org/blogs/)
+[![LeetCode](https://leetcode.com/u/nishikayadav26/)
 
 </div>
 
 ---
-
-I care about the unsexy parts of AI engineering — the retry logic, the rate limiters, the schema decisions that will haunt you six months later. I've spent the last year and a half building production LLM infrastructure at [Tech4Dev](https://projecttech4dev.org), where the users are NGOs doing real work and the systems actually need to hold.
-
+< Will write something about myself here >
 ---
 
 ## Stack
@@ -42,17 +41,9 @@ Languages       Python · SQL · C++ · TypeScript (working knowledge)
 
 I'm most excited about problems at the intersection of **reliability and intelligence** — the places where making AI systems actually trustworthy requires both systems thinking and ML depth. 
 
----
-
-## Background
-
-B.E. Electrical Engineering, MITS Gwalior (2024)
----
 
 <div align="center">
-
-*Open to backend/AI engineering roles — hybrid Bangalore or remote. If you're building something real, let's talk.*
-
+  
 **nishikayadav26@gmail.com**
 
 </div>
