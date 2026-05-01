@@ -16,9 +16,6 @@
 Over the past 2–3 years I've worked across the stack — data science, machine learning, backend engineering, frontend, and a bit of DevOps — with a growing focus on production AI systems, and building for the good.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishika26&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishika26&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://streak-stats.demolab.com?user=nishika26&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
