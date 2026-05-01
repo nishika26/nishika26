@@ -13,7 +13,7 @@
 </div>
 
 ---
-< Will write something about myself here >
+For the past 2 -3 years I have worked on all range of things from data science, machine learning, aritifial intellinge, Backend engineering, frontend engineering as well as little bit of Devops. 
 
 <img src="https://github-readme-stats.vercel.app/api?username=nishika26&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishika26&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
