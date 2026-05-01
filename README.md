@@ -14,33 +14,15 @@
 
 ---
 < Will write something about myself here >
----
 
-## Stack
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishika26&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishika26&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</div>
 
-```
-LLM / AI        LangChain · LlamaIndex · LangGraph · Langfuse · Transformers
-                Fine-tuning: SFT · ORPO · DPO · QLoRA · RLHF
-                RAG · Vector stores · Prompt engineering · Agentic AI · MCP Servers
+### What I Want to Work On Next
 
-Backend         FastAPI · SQLModel · SQLAlchemy · Pydantic · Alembic
-                Celery · Redis · PostgreSQL · Async Python · Pytest
-
-Cloud & Infra   AWS (Bedrock · S3 · IAM · OpenSearch) · Docker · GitHub Actions
-
-ML / Data       PyTorch · TensorFlow · Keras · Scikit-learn · DBT · Apache Superset
-
-LLM Providers   OpenAI · Anthropic · AWS Bedrock · Gemini · Ollama · Hugging Face
-
-Languages       Python · SQL · C++ · TypeScript (working knowledge)
-```
-
----
-
-## What I Want to Work On Next
-
-I'm most excited about problems at the intersection of **reliability and intelligence** — the places where making AI systems actually trustworthy requires both systems thinking and ML depth. 
-
+I'm most excited about problems at the intersection of reliability and intelligence — the places where making AI systems actually trustworthy requires both systems thinking and ML depth. My main focus is finding opportunities in responsible AI, AI in healthcare, and AI for public policy — domains where the stakes are real and getting it right matters.
 
 <div align="center">
   
