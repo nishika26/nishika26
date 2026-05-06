@@ -22,7 +22,7 @@ Over the past 2–3 years I've worked across the stack — data science, machine
 
 ### What I Want to Work On Next
 
-I'm most excited about problems at the intersection of reliability and intelligence — the places where making AI systems actually trustworthy requires both systems thinking and ML depth. My main focus is finding opportunities in responsible AI, AI in healthcare, and AI for public policy — domains where the stakes are real and getting it right matters.
+I'm most excited about problems at the intersection of reliability and intelligence, the places where making AI systems actually trustworthy requires both systems thinking and ML depth. My main focus is finding opportunities in responsible AI, AI in healthcare, and AI for public policy.
 
 <div align="center">
   
